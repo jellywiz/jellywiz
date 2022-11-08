@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Muzaffer Dler</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&pause=1500&color=grey&width=600&height=70&lines=Hello+Developers)](https://git.io/typing-svg) <br>
 ![GitHub followers](https://img.shields.io/github/followers/jellywiz?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/jellywiz?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jellywiz.repoName) <img src="https://komarev.com/ghpvc/?username=jellywiz" alt="jellywiz" />
 
 ## About Me :
