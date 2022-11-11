@@ -10,7 +10,6 @@
 - 🎓 Studies for Full Stack web development at [Microverse](https://www.microverse.org/)
 - 🏡'Lives in **Iraq Erbil**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
-
 <br>
 
 [![@jellywiz_mj](https://img.icons8.com/fluency/48/000000/instagram-new.png "@jellywiz_mj")](https://www.instagram.com/jellywiz_mj/) 
