@@ -4,7 +4,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/jellywiz?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/jellywiz?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jellywiz.repoName) <img src="https://komarev.com/ghpvc/?username=jellywiz" alt="jellywiz" />
 
 ## About Me :
-
 - 🏢 I am currently working as a **Senior Software Engineer** at [Getway](https://the-gw.com/)
 - 🎓 Studies for Software Engineering at [Universiti Teknologi Malaysia](https://www.utm.my/)
 - 🎓 Studies for Full Stack web development at [Microverse](https://www.microverse.org/)
